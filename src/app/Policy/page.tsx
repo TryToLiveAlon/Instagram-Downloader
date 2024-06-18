@@ -6,7 +6,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
     title: 'Privacy Policy',
-    description: 'By using ReelSaver.online, you agree to the terms outlined in this Privacy Policy. If you do not agree with these terms, please refrain from using our website.',
+    description: 'By using this website, you agree to the terms outlined in this Privacy Policy. If you do not agree with these terms, please refrain from using our website.',
   }
    
 const Page = () => {
@@ -18,11 +18,11 @@ const Page = () => {
             <Icon/>
         </section>
         <p>
-        Welcome to <Link href={"/"} className='text-blue'>ReelSaver.online</Link>. This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information while using our website. By accessing or using ReelSaver.online, you agree to the terms outlined in this Privacy Policy.
+        Welcome to <Link href={"/"} className='text-blue'>Death Community</Link>. This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information while using our website. By accessing or using our web, you agree to the terms outlined in this Privacy Policy.
         </p>
         <h1 className='font-bold'>1. Information We Collect:</h1>
         <p>
-        ReelSaver.online does not collect any personal information from its users. We do not require users to sign in or provide any identifiable information.
+        web does not collect any personal information from its users. We do not require users to sign in or provide any identifiable information.
         </p>
         <h1 className='font-bold'>2. Usage of Information:</h1>
         <p>
@@ -30,7 +30,7 @@ const Page = () => {
         </p>
         <h1 className='font-bold'>3. Cookies:</h1>
         <p>
-        ReelSaver.online does not use cookies to track user activities or preferences.
+        web does not use cookies to track user activities or preferences.
         </p>
         <h1 className='font-bold'>4. Third-Party Links:</h1>
         <p>
@@ -42,7 +42,7 @@ const Page = () => {
         </p>
         <h1 className='font-bold'>6. Children&apos;s Privacy:</h1>
         <p>
-        ReelSaver.online is not intended for children under the age of 13. We do not knowingly collect or store any information from individuals under 13 years of age. If you believe that we may have collected information from a minor, please contact us immediately
+        web is not intended for children under the age of 13. We do not knowingly collect or store any information from individuals under 13 years of age. If you believe that we may have collected information from a minor, please contact us immediately
         </p>
         <h1 className='font-bold'>7. Changes to this Privacy Policy:</h1>
         <p>
@@ -50,9 +50,9 @@ const Page = () => {
         </p>
         <h1 className='font-bold'>8. Contact Information:</h1>
         <p>
-        If you have any questions or concerns regarding this Privacy Policy, please contact us at reelsaveronline@gmail.com.
+        If you have any questions or concerns regarding this Privacy Policy, please contact us at Telegram @TryToLiveAlon.
         </p><h1 className='font-bold'>
-        By using ReelSaver.online, you agree to the terms outlined in this Privacy Policy. If you do not agree with these terms, please refrain from using our website.
+        By using web, you agree to the terms outlined in this Privacy Policy. If you do not agree with these terms, please refrain from using our website.
         </h1>
        
     </div>
